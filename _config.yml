@@ -1,17 +1,17 @@
 # Built with Jekyll 3.2.0
 
 # Setup
-title:               Ed.
+title:               TDSTemplate.
 tagline:             'a jekyll theme for minimal editions'
-description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
-url:                 'http://elotroalex.github.io'
-baseurl:             '/ed'
+description:         'TDSTemplate is based on Ed, a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
+url:                 'http://sgolanka.github.io'
+baseurl:             '/TDSHumanities'
 
 # About/contact
 author:
-  name:              Alex Gil
-  url:               https://twitter.com/elotroalex
-  email:             colibri.alex@gmail.com
+  name:              Stan Golanka
+  url:               wwww.trevor.org
+  email:             sgolanka@trevor.org
 
 # Permalinks
 
