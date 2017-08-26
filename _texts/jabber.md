@@ -76,15 +76,17 @@ source: www.jabberwocky.com
 
 ## Footnotes
 
-[^fn1]: From Through the Looking-Glass and What Alice Found There, 1872. Besides Jabberwocky, this book includes another great poem entitled The Walrus and the Carpenter.  Here's a bit:
+[^fn1]: 
 
-  > - "The time has come," the Walrus said,
-  > - "To talk of many things:
-  > - Of shoes--and ships--and sealing-wax--
-  > - Of cabbages--and kings--
-  > - And why the sea is boiling hot--
-  > - And whether pigs have wings."
-	{:.poetry}
+  From Through the Looking-Glass and What Alice Found There, 1872. Besides Jabberwocky, this book includes another great poem entitled The Walrus and the Carpenter.  Here's a bit:
+
+    > - "The time has come," the Walrus said,
+    > - "To talk of many things:
+    > - Of shoes--and ships--and sealing-wax--
+    > - Of cabbages--and kings--
+    > - And why the sea is boiling hot--
+    > - And whether pigs have wings."
+	 {:.poetry}
 
 [^fn2]: The bugle is a small trumpet implicated in the military industrial complex.
 
