@@ -54,8 +54,8 @@ source: www.jabberwocky.com
   From Through the Looking Glass and What Alice Found There (1872).  This book contains other great poems, including The Walrus and the Carpenter.  Here is a bit of it:
 
   > - "The time has come," the Walrus said,
-  > - There may be no trees to rest on
-  > - There may be no clouds to ride
+  > - "To talk of many things:
+  > - Of shoes--and ships--and sealing-wax--
   > - But we'll have our wings and the wind will be with us
   > - That's enough for me, that's enough for me.
   {:.poetry}
