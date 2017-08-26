@@ -1,6 +1,6 @@
 ---
 layout: poem
-title: "Jabberwocky"
+title: "Jabberwocky" [^fn1]
 author: Lewis Carroll
 editor: Stan Golanka
 source: www.jabberwocky.com
@@ -77,13 +77,14 @@ source: www.jabberwocky.com
 
 [^fn1]: 
 
-	The author had just landed in La Guardia Airport after the flight captain died. All the passengers stood up to applaud the co-pilot. We have it in good authority that the event in question led Yoko Ono to write her "Letter to John":
+	From <i>Through the Looking-Glass and What Alice Found There</i>, 1872. Besides <i>Jabberwocky</i>, this book includes another great poem entitled <i>The Walrus and the Carpenter</i>.  Here's a bit:
 
-	> - On a windy day let's go flying
-	> - There may be no trees to rest on
-	> - There may be no clouds to ride
-	> - But we'll have our wings and the wind will be with us
-	> - That's enough for me, that's enough for me.
+  > - "The time has come," the Walrus said,
+  > - "To talk of many things:
+  > - Of shoes--and ships--and sealing-wax--
+  > - Of cabbages--and kings--
+  > - And why the sea is boiling hot--
+  > - And whether pigs have wings."
 	{:.poetry}
 
 [^fn2]: The bugle is a small trumpet implicated in the military industrial complex.
