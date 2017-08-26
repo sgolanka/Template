@@ -78,15 +78,14 @@ source: www.jabberwocky.com
 
 [^fn1]: 
 
-  From Through the Looking-Glass and What Alice Found There, 1872. Besides Jabberwocky, this book includes another great poem entitled The Walrus and the Carpenter.  Here's a bit:
+  From Through the Looking Glass and What Alice Found There (1872).  This book contains other great poems, including The Walrus and the Carpenter.  Here is a bit of it:
 
-    > - "The time has come," the Walrus said,
-    > - "To talk of many things:
-    > - Of shoes--and ships--and sealing-wax--
-    > - Of cabbages--and kings--
-    > - And why the sea is boiling hot--
-    > - And whether pigs have wings."
-	 {:.poetry}
+  > - On a windy day let's go flying
+  > - There may be no trees to rest on
+  > - There may be no clouds to ride
+  > - But we'll have our wings and the wind will be with us
+  > - That's enough for me, that's enough for me.
+  {:.poetry}
 
 [^fn2]: The bugle is a small trumpet implicated in the military industrial complex.
 
