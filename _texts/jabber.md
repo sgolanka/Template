@@ -49,9 +49,7 @@ source: www.jabberwocky.com
 
 ## Footnotes
 
-[^fn1]: 
-
-  From Through the Looking Glass and What Alice Found There (1872).  This book contains other great poems, including The Walrus and the Carpenter.  Here is a bit of it:
+[^fn1]: From Through the Looking Glass and What Alice Found There (1872).  This book contains other great poems, including The Walrus and the Carpenter.  Here is a bit of it:
 
   > - "The time has come," the Walrus said,
   > - "To talk of many things:
