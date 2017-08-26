@@ -76,9 +76,7 @@ source: www.jabberwocky.com
 
 ## Footnotes
 
-[^fn1]: 
-
-	From Through the Looking-Glass and What Alice Found There, 1872. Besides Jabberwocky, this book includes another great poem entitled The Walrus and the Carpenter.  Here's a bit:
+[^fn1]: From Through the Looking-Glass and What Alice Found There, 1872. Besides Jabberwocky, this book includes another great poem entitled The Walrus and the Carpenter.  Here's a bit:
 
   > - "The time has come," the Walrus said,
   > - "To talk of many things:
