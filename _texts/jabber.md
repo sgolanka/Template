@@ -56,8 +56,8 @@ source: www.jabberwocky.com
   > - "The time has come," the Walrus said,
   > - "To talk of many things:
   > - Of shoes--and ships--and sealing-wax--
-  > - But we'll have our wings and the wind will be with us
-  > - That's enough for me, that's enough for me.
+  > - Of cabbages--and kings--
+  > - And whether pigs have wings."
   {:.poetry}
 
 [^fn2]: Vorpal is made up of course, but is now used in games like Dungeons and Dragons to refer to a magic sword.
