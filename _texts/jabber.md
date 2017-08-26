@@ -42,7 +42,7 @@ source: www.jabberwocky.com
 - All mimsy were the borogoves,
 - And the mome raths outgrabe.
 
-- O Captain! my Captain! our fearful trip is done;[^fn1]
+- O Captain! my Captain! our fearful trip is done;
 - The ship has weather’d every rack, the prize we sought is won,
 - The port is near, the bells I hear, the people all exulting,
 - While follow eyes the steady keel, the vessel grim and daring; 
@@ -78,7 +78,7 @@ source: www.jabberwocky.com
 
 [^fn1]: 
 
-	From <i>Through the Looking-Glass and What Alice Found There</i>, 1872. Besides <i>Jabberwocky</i>, this book includes another great poem entitled <i>The Walrus and the Carpenter</i>.  Here's a bit:
+	From Through the Looking-Glass and What Alice Found There, 1872. Besides Jabberwocky, this book includes another great poem entitled The Walrus and the Carpenter.  Here's a bit:
 
   > - "The time has come," the Walrus said,
   > - "To talk of many things:
