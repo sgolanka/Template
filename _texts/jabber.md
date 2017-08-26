@@ -53,7 +53,7 @@ source: www.jabberwocky.com
 
   From Through the Looking Glass and What Alice Found There (1872).  This book contains other great poems, including The Walrus and the Carpenter.  Here is a bit of it:
 
-  > - On a windy day let's go flying
+  > - "The time has come," the Walrus said,
   > - There may be no trees to rest on
   > - There may be no clouds to ride
   > - But we'll have our wings and the wind will be with us
