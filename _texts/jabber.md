@@ -50,13 +50,14 @@ source: www.jabberwocky.com
 ## Footnotes
 
 [^fn1]:
-  From <i>Through the Looking Glass and What Alice Found There </i>(1872).  This book contains other great poems, including <i>The Walrus and the Carpenter</i>.  Here is a bit of it:
-  > - "The time has come," the Walrus said,
-  > - "To talk of many things:
-  > - Of shoes--and ships--and sealing-wax--
-  > - Of cabbages--and kings--
-  > - And whether pigs have wings."
-  {:.poetry}
+     From <i>Through the Looking Glass and What Alice Found There </i>(1872). This book contains other great poems, including <i>The Walrus and the Carpenter</i>.  Here is a bit of it:
+  
+     > - "The time has come," the Walrus said,
+     > - "To talk of many things:
+     > - Of shoes--and ships--and sealing-wax--
+     > - Of cabbages--and kings--
+     > - And whether pigs have wings."
+     {:.poetry}
 
 [^fn2]: Vorpal is made up of course, but is now used in games like Dungeons and Dragons to refer to a magic sword.
 
