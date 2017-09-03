@@ -41,8 +41,7 @@ source: Poetry Foundation
 ## Footnotes
 
 [^fn1]: 
-
-	The author had just landed in La Guardia Airport after the flight captain died. All the passengers stood up to applaud the co-pilot. We have it in good authority that the event in question led Yoko Ono to write her "Letter to John":
+  The author had just landed in La Guardia Airport after the flight captain died. All the passengers stood up to applaud the co-pilot. We have it in good authority that the event in question led Yoko Ono to write her "Letter to John":
 
 	> - On a windy day let's go flying
 	> - There may be no trees to rest on
