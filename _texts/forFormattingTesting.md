@@ -19,7 +19,7 @@ Yet another way would be to add at least 2 blank spaces to the end of a line. Th
 Above this line is 2 backslashes with no other text-since it doesen't seem to work otherwise.<br /><br />
 OK so now I added HTML--the code for inserting a break or blank line.  I added 2 of them to the end of the line above.
 
-I skipped a line (created a blank line) above this. I am ending this line with 2 slashes, and below this, the above text is repeated, but formatted with dashes to make each line separate. The blank lines and slashes are left in place.\\
+I skipped a line (created a blank line) above this. I am ending this line with 2 slashes, and below this, the above text is repeated, but formatted with dashes to make each line separate and poem-formatted. The blank lines and slashes are left in place.\\
 - I am typing a bunch of words to create a sentence that will be part of a paragraph. Or maybe part of text that I will try to display in a few different ways.
 
 - Supposedly a blank line in the middle of (otherwise unformatted) text will produced a blank line. This text is below a blank line.
