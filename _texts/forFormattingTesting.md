@@ -16,7 +16,8 @@ But multiple blank lines, like the ones that this line follows, will be treated 
 This line is typed right below the one above, but the one above ends with two slashes.           
 Yet another way would be to add at least 2 blank spaces to the end of a line. The line above ends with many blank spaces.
 \\
-Above this line is 2 backslashes with no other text-since it doesen't seem to work otherwise.
+Above this line is 2 backslashes with no other text-since it doesen't seem to work otherwise.<br /><br />
+OK so now I added HTML--the code for inserting a break or blank line.  I added 2 of them to the end of the line above.
 
 I skipped a line (created a blank line) above this. I am ending this line with 2 slashes, and below this, the above text is repeated, but formatted with dashes to make each line separate. The blank lines and slashes are left in place.\\
 - I am typing a bunch of words to create a sentence that will be part of a paragraph. Or maybe part of text that I will try to display in a few different ways.
@@ -29,6 +30,7 @@ I skipped a line (created a blank line) above this. I am ending this line with 2
 - This line is typed right below the one above, but the one above ends with two slashes.           
 - Yet another way would be to add at least 2 blank spaces to the end of a line. The line above ends with many blank spaces.
 \\
-- Above this line is 2 backslashes with no other text-since it doesen't seem to work otherwise.
+- Above this line is 2 backslashes with no other text-since it doesen't seem to work otherwise.<br /><br />
+- OK so now I added HTML--the code for inserting a break or blank line.  I added 2 of them to the end of the line above.
 
 - I skipped a line (created a blank line) above this. I am ending this line with 2 slashes, and below this, the above text is repeated, but formatted with dashes to make each line separate. The blank lines and slashes are left in place. \\
