@@ -1,5 +1,5 @@
 ---
-layout: poem
+layout: poem2
 title: "Jabberwocky"
 author: Lewis Carroll
 editor: Stan Golanka
