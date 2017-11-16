@@ -1,8 +1,8 @@
 # Built with Jekyll 3.2.0
 
 # Setup
-title:               TDSTemplate.
-tagline:             'Using Ed, a jekyll theme for minimal editions'
+title:               
+tagline:             
 description:         'TDSTemplate uses Ed, a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
 url:                 'http://sgolanka.github.io'
 baseurl:             '/Template'
